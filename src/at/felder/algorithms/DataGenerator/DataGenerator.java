@@ -1,4 +1,4 @@
-package at.felder.algorithm.DataGenerator;
+package at.felder.algorithms.DataGenerator;
 
 import java.util.Random;
 

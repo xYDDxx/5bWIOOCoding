@@ -1,4 +1,4 @@
-package at.felder.algorithm.BaseAlgo;
+package at.felder.algorithms.BaseAlgo;
 
 import org.junit.jupiter.api.Test;
 
