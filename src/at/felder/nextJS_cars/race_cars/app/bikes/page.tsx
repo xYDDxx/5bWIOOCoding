@@ -5,7 +5,7 @@ type Props = {};
 export default function page({}: Props) {
   return (
     <div>
-      <div>Trucks</div>
+      <div>Bikes</div>
     </div>
   );
 }
